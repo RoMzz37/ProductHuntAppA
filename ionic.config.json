@@ -1,0 +1,7 @@
+{
+  "name": "ProductHuntApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

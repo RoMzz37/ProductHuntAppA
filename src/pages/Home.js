@@ -11,6 +11,6 @@ const Home = () => {
                 <LargeHeader title="ProductHuntApp"/>
             </IonContent>
         </IonPage>
-    )
+    );
 };
  export default Home;

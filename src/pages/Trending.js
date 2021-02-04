@@ -11,6 +11,6 @@ const Trending = () => {
                 <LargeHeader title="Trending"/>
             </IonContent>
         </IonPage>
-    )
+    );
 };
  export default Trending;

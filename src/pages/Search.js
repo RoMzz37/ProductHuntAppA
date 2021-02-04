@@ -11,6 +11,6 @@ const Search = () => {
                 <LargeHeader title="Search"/>
             </IonContent>
         </IonPage>
-    )
+    );
 };
  export default Search;

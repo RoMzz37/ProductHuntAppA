@@ -11,6 +11,6 @@ const Submit = () => {
                 <LargeHeader title="Submit"/>
             </IonContent>
         </IonPage>
-    )
+    );
 };
  export default Submit;

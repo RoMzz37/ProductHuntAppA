@@ -72,7 +72,8 @@ const App = () => {
           <IonLabel>Profile</IonLabel>
         </IonTabButton>
 
-      </IonTabBar> </IonTabs>
+      </IonTabBar> 
+      </IonTabs>
     </IonReactRouter>
     
   </IonApp>

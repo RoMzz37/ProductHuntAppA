@@ -85,9 +85,9 @@ const App = () => {
         </IonTabButton>
 
       </IonTabBar> 
-      </IonTabs>
+      </IonTabs>  
+      </UserContext.Provider>
     </IonReactRouter>
-    </UserContext.Provider>
   </IonApp>
   )
 };

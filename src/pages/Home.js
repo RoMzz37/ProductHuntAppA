@@ -13,4 +13,5 @@ const Home = () => {
         </IonPage>
     );
 };
+
  export default Home;
